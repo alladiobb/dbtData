@@ -12,3 +12,4 @@ pip install dbt-postgres
 #criar a pasta .dbt
 #no explorer digite %userprofile% (caira na pasta de perfil do usuário) e cria a pasta ".dbt"
 
+dbt init
